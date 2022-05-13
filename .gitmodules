@@ -1,0 +1,6 @@
+[submodule "Contador"]
+	path = Contador
+	url = https://github.com/codeludo/counter_with_toast.git
+[submodule "Salarios"]
+	path = Salarios
+	url = https://github.com/codeludo/KOTLIN-EJERCICIOS.git
