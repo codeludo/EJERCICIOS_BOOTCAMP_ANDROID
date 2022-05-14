@@ -4,3 +4,6 @@
 [submodule "Salarios"]
 	path = Salarios
 	url = https://github.com/codeludo/KOTLIN-EJERCICIOS.git
+[submodule "DiceRoller"]
+	path = DiceRoller
+	url = https://github.com/codeludo/DiceRollerExercise.git
