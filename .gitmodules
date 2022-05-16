@@ -7,3 +7,6 @@
 [submodule "DiceRoller"]
 	path = DiceRoller
 	url = https://github.com/codeludo/DiceRollerExercise.git
+[submodule "AboutMe"]
+	path = AboutMe
+	url = https://github.com/codeludo/About_Me_Exersice.git
