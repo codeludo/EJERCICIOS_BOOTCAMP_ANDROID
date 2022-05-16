@@ -10,3 +10,6 @@
 [submodule "AboutMe"]
 	path = AboutMe
 	url = https://github.com/codeludo/About_Me_Exersice.git
+[submodule "ColorMyViews"]
+	path = ColorMyViews
+	url = https://github.com/codeludo/ColorMyViews-Exercise.git
