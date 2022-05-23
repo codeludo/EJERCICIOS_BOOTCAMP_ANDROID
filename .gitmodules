@@ -13,3 +13,6 @@
 [submodule "ColorMyViews"]
 	path = ColorMyViews
 	url = https://github.com/codeludo/ColorMyViews-Exercise.git
+[submodule "My-Login-Application"]
+	path = My-Login-Application
+	url = https://github.com/codeludo/My-Login-Application.git
